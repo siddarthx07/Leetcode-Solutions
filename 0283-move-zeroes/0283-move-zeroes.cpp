@@ -4,20 +4,14 @@ public:
         int nonZero=0;
         for (int i=0;i<nums.size();i++)
         {
-            if(nums[i]==0)
+            if(nums[i]!=0)
             {
-                continue;
+                swap(nums[i], nums[nonZero++]);
+                
             }
-            else
-            {   
-                swap(nums[i], nums[nonZero]);
-                nonZero++;
-            }
+
         }
-        for(int i=0;i<nums.size();i++)
-        {
-            cout<<nums[i];
-        }
+
     }
 
 
