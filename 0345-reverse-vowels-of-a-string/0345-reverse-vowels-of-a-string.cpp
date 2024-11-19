@@ -9,9 +9,9 @@ public:
                 s1.push_back(s[i]);
             }
         }
-        string sRev;
+        
         int n=s1.size();
-        sRev.resize(n); 
+        string sRev=s1;
         for (int i = 0; i < n; i++) {
             sRev[i] = s1[n - i - 1];
         }
