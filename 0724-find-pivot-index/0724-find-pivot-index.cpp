@@ -7,7 +7,6 @@ public:
         for (int i=0;i<nums.size()-1;i++)
         {
             sumL+=nums[i];
-            cout<<sumL<<endl;
             leftsum.push_back(sumL);
             
         }
@@ -20,7 +19,6 @@ public:
         {   
             
             sumR+=nums[i];
-            cout<<sumR<<endl;
             rightsum.push_back(sumR);
         }
         int i=0;
