@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         for (int i=0;i<arr.size();i++)
         {
             mp[arr[i]]++;
         }
-        map<int,int>mp2;
+        unordered_map<int,int>mp2;
         for(auto x: mp)
         {
             mp2[x.second]++;
