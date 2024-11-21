@@ -33,15 +33,12 @@ public:
             {
                 rev=newnode;
             }
-
             else
             {
                 temp2->next=newnode;
             }
-
             temp2=newnode;
         }
-
         return rev;
     }
 };
