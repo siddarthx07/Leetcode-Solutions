@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [2428-equal-row-and-column-pairs](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [2428-equal-row-and-column-pairs](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2428-equal-row-and-column-pairs](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
