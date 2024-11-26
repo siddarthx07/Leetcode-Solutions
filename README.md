@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [1777-determine-if-two-strings-are-close](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -52,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+## Sorting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
