@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
