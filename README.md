@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
