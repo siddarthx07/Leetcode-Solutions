@@ -116,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
