@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
