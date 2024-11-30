@@ -6,15 +6,13 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             mp[nums[i]]++;
-        }
-
-        for(auto m:mp)
-        {
-            if(m.second>x)
+            if(mp[nums[i]]>x)
             {
-                return m.first;
+                return nums[i];
             }
         }
+
+ 
         return 0;
     }
 };
