@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
@@ -63,16 +64,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Design
 |  |
@@ -129,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0338-counting-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
