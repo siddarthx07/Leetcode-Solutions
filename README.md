@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/siddarthx07/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
